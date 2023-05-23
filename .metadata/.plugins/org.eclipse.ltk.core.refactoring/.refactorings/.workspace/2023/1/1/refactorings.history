@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 19 resources" deleteContents="false" description="Delete 19 resources" element1="/00_arrayExample" element10="/08_inheritance" element11="/08_ObjectArray_Homework_Garam" element12="/09_Inherit_Homework_Garam" element13="/09_Inherit_Homework_Garam2" element14="/09_polymorphism" element15="/10_exception" element16="/11_collection" element17="/12_IO" element18="/Javasemi1" element19="/ThisIsJava" element2="/01_variable" element3="/02_operator" element4="/03_control" element5="/04_array" element6="/05_array2" element7="/06_OOP" element8="/07_objectArray" element9="/07_ObjectArray_Homework_GaRam" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="19" stamp="1672616894027"/>
+</session>
